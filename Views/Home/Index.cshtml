@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<input type="button"
+       value="All pages"
+       onclick="location.href='@Url.Action("ConvertAllPages", "Home")'" />
+<input type="button"
+       value="Range of pages"
+       onclick="location.href='@Url.Action("RangeOfPages", "Home")'" />
+<input type="button"
+       value="Thumbnail image"
+       onclick="location.href='@Url.Action("ThumbnailImage", "Home")'" />
