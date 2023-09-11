@@ -5,6 +5,11 @@ Example: https://ej2.syncfusion.com/aspnetcore/Word/WordToImage#/material3
 
 Documentation: https://help.syncfusion.com/file-formats/docio/word-to-image
 
+## Key Features
+-	Preview the Word document- Convert an entire document to images 
+-	Thumbnail of Word document - Convert first page of Word document to image 
+-	Print particular pages in Word document - Convert specific range of pages to images 
+
 ## Project pre-requisites
 Make sure that you have the compatible versions of Visual Studio and .NET SDK version in your machine before starting to work on this project.
 
